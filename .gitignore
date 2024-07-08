@@ -1,0 +1,25 @@
+# Ignore environment variables file
+.env
+
+# Ignore npm package lock file
+package-lock.json
+
+# Ignore node_modules directory
+node_modules/
+
+# Optional: Uncomment if you use Yarn and want to ignore yarn lock file
+# yarn.lock
+
+# Optional: Ignore logs and debugging files
+logs/
+*.log
+npm-debug.log*
+
+# Optional: Ignore IDE/Editor specific files
+.vscode/
+.idea/
+*.iml
+
+# Optional: Ignore OS generated files
+.DS_Store
+Thumbs.db
